@@ -1,3 +1,7 @@
+## Repository link:https://github.com/viviliol/posmotri-v-okno/tree/main
+
+------ 
+
 # Look Through the Window
 ## This project is a web application that allows users to search for videos based on city and time of day. It features a search form, a video display section, and templates for dynamic card rendering.
 
