@@ -1,4 +1,4 @@
-## Repository link:https://github.com/viviliol/posmotri-v-okno/tree/main
+## Repository link: [https://github.com/viviliol/posmotri_v_okno/tree/main]
 
 ------ 
 
