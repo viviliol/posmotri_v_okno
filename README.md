@@ -3,7 +3,7 @@
 
 ------ 
 
-##File Structure
+## File Structure
 
 ├── index.html         # Main HTML file
 ├── styles/            # Contains stylesheets for various components
@@ -13,7 +13,7 @@
 └── scripts/
     └── script.js      # Main JavaScript file
     
-##Features
+## Features
 
 * Search Form: Users can input a city and select the time of day.
 * Video Display: Displays videos based on user input.
