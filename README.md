@@ -5,13 +5,19 @@
 
 ## File Structure
 
-1. index.html         # Main HTML file
-2. styles/            # Contains stylesheets for various components
+1. index.html
+           
+3. styles/
+            
    2.2.  style.css
+   
    2.3. preloader.css
+   
    2.4. error.css
+   
 3. scripts/
-    3.1. script.js      # Main JavaScript file
+   
+    3.1. script.js      
     
 ## Features
 
