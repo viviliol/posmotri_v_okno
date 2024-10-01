@@ -47,6 +47,7 @@ ol {
   justify-content: space-between;
   min-width: 1140px;
   padding: 133px 30px;
+  margin-top: 95px;
 }
 
 .content__details,
@@ -68,7 +69,6 @@ ol {
 .search-form__fieldset {
   margin-right: 10px;
   border: none;
-  padding: 0
 }
 
 .search-form__fieldset:last-child {
@@ -78,9 +78,9 @@ ol {
 .content__list {
   height: 305px;
   width: 425px;
-  overflow-y: auto;
+  overflow: hidden auto;
   padding-right: 30px;
-  overflow-x: hidden;
+  
 }
 
 .content__list-item {
@@ -138,7 +138,7 @@ ol {
   font-weight: bold;
   text-transform: uppercase;
   margin: 0 0 20px 10px;
-  font-family: 'Oswald';
+  font-family: 'Oswald', sans-serif;
 }
 
 .content__accent {
@@ -167,11 +167,11 @@ ol {
 .content__video-card-title {
   text-transform: uppercase;
   font-size: 30px;
-  margin-bottom: 6px;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
-  max-width: 192px; 
+  max-width: 192px;
+  font-family: 'Oswald', sans-serif;
 }
 
 .content__video-card-description {
@@ -238,10 +238,11 @@ ol {
   border-bottom: 1px solid #fff;
   border-left: none;
   border-right: none;
-  font-size: 16px;
+  font-size: 18px;
   background-color: transparent;
   appearance: none;
-  color: #fff;
+  color: inherit;
+  font-family: 'Fira Sans Condensed', sans-serif;
 }
 
 .search-form__textfield::placeholder {
@@ -279,10 +280,11 @@ ol {
 
 .button {
   display: inline-block;
-  padding: 6px 69px;
+  padding: 6px 73px;
   font-size: 18px;
   font-weight: bold;
-  color: #fff;
+  color: inherit;
+  font-family: 'Fira Sans Condensed', sans-serif;
   border: 1px solid #fff;
   background-color: transparent;
   cursor: pointer;
