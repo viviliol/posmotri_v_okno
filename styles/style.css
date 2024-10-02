@@ -77,10 +77,9 @@ ol {
 
 .content__list {
   height: 305px;
-  width: 425px;
-  overflow: hidden auto;
+  width: 450px;
+  overflow: auto;
   padding-right: 30px;
-  
 }
 
 .content__list-item {
